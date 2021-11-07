@@ -178,7 +178,7 @@ data:
       istio:
         url_service_version: http://istio-pilot.istio-system:8080/version
       tracing:
-        url: 
+        url: http://localhost:16686
       grafana:
         url: 
       prometheus:
