@@ -178,8 +178,7 @@ data:
       istio:
         url_service_version: http://istio-pilot.istio-system:8080/version
       tracing:
-        url: http://localhost:16686
-        in_cluster_url: http://jaeger-query.istio-system.svc.cluster.local
+        url: http://localhost:30686
       grafana:
         url: 
       prometheus:
